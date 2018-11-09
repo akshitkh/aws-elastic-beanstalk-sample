@@ -1,10 +1,10 @@
 ###################################################################
-################### EB Sample App Downloader ######################
+######## <h1>Elastic Beanstalk Sample App Downloader</h1> #########
 ###################### Akshit Khanna ##############################
 ########################## AWS Tools ##############################
 
 
-Downloads the Elastic Beanstalk sample application for any solution stack to the current directory. I find this very useful to quickly download the sample application, extract it, delete the archive, all at once from the command line. Deploying sample applications is a recommended troubleshooting step that can also be used to test ebextensions on an Elastic Beanstalk environment. 
+Downloads the **Elastic Beanstalk sample application** for any solution stack to the current directory. I find this very useful to quickly download the sample application, extract it, delete the archive, all at once from the command line. Deploying sample applications is a recommended troubleshooting step that can also be used to test ebextensions on an Elastic Beanstalk environment. 
 
 
 Installation:
